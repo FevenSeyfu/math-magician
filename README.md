@@ -57,8 +57,6 @@
 > Describe between 1-3 key features of the application.
 
 - **simple calculator with nice UI**
-- **three sub pages**
-- **Show random math-related quote**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,12 +100,6 @@ the repository.
 - GitHub: [@FevenSeyfu](https://github.com/FevenSeyfu)
 - LinkedIn: [@feven-seyfu](https://www.linkedin.com/in/feven-seyfu-0008641b0)
 
-
-<!-- FUTURE FEATURES -->
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **3 sub pages for home, calculator and quotes**
-- [ ] **Interactive UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
