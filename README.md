@@ -57,7 +57,6 @@
 > Describe between 1-3 key features of the application.
 
 - **simple calculator with nice UI**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -81,7 +80,7 @@ To get a local copy up and running, follow these steps. -->
 https://git-scm.com/downloads and install it).
 - Step 2: Once you have installed git you can clone this project using the command below:
   ```
-  git clone https://github.com/FevenSeyfu/math-magician.git
+  git clone https://github.com/FevenSeyfu/Math-magician.git
   ```
 - Step 3: Once you have cloned this repo navigate to the folder that contains
 the repository.
@@ -101,7 +100,16 @@ the repository.
 - LinkedIn: [@feven-seyfu](https://www.linkedin.com/in/feven-seyfu-0008641b0)
 
 
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **3 sub pages for home, calculator and quotes**
+- [ ] **Interactive UI**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
