@@ -57,8 +57,7 @@
 > Describe between 1-3 key features of the application.
 
 - **simple calculator with nice UI**
-- **three sub pages**
-- **Show random math-related quote**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,17 +103,12 @@ the repository.
 
 
 <!-- FUTURE FEATURES -->
-<!--
+
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+- [ ] **3 sub pages for home, calculator and quotes**
+- [ ] **Interactive UI**
 
-- [ ] **[desktop_version]**
-- [ ] **[responsive]**
-- [ ] **[user_interactive]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
