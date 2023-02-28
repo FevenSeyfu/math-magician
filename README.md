@@ -106,8 +106,8 @@ the repository.
 <!-- FUTURE FEATURES -->
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **A 3 sub pages for home calculator and quotes**
-- [ ] **Interactive ux**
+- [ ] **3 sub pages for home, calculator and quotes**
+- [ ] **Interactive UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
