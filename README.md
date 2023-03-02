@@ -63,7 +63,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Portfolio link.
+> Project link.
 
 - [Live Demo](link)
 
@@ -80,7 +80,7 @@ To get a local copy up and running, follow these steps. -->
 https://git-scm.com/downloads and install it).
 - Step 2: Once you have installed git you can clone this project using the command below:
   ```
-  git clone https://github.com/FevenSeyfu/Math-magician.git
+  git clone https://github.com/FevenSeyfu/math-magician.git
   ```
 - Step 3: Once you have cloned this repo navigate to the folder that contains
 the repository.
